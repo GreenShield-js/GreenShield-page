@@ -1,2 +1,2 @@
-# GreenShield.github.io
+# GreenShield page
 A simple landing page
